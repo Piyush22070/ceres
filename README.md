@@ -41,16 +41,11 @@ With CERES, you can automate everyday tasks such as:
 ## **Screenshots**
 
 <!-- Add screenshots of the app here -->
-![Screenshot 1](path_to_screenshot_1)
+<img width="1537" height="1337" alt="image" src="https://github.com/user-attachments/assets/9f3a5509-056b-40d9-b6e5-a585a39c0221" />
+<img width="915" height="1118" alt="image" src="https://github.com/user-attachments/assets/646caa2f-e73c-4947-9b02-b42caaf2309b" />
+
 ![Screenshot 2](path_to_screenshot_2)
 
----
-
-## **Video Demo**
-
-[![Watch Video](path_to_video_thumbnail)](path_to_video_link)
-
----
 
 ## **Running the Application**
 
