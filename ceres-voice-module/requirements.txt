@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+websockets
+google-generativeai
+requests
+openai-whisper
+numpy
+pvporcupine
+torch
+pyttsx3
+pyaudio
+torchaudio
+dotenv

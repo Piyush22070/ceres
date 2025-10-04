@@ -1,0 +1,80 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# FastAPI / Uvicorn
+*.log
+*.pid
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Environment variables
+.env
+*.env
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Mypy / type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pytype
+.pytype/
+
+# Pylint
+pylint-report.txt
+pylint-output.txt
+
+# Profiling data
+.prof
+
+# Jupyter
+.ipynb_checkpoints
