@@ -1,11 +1,12 @@
 
 # CERES - AI-Based OS Automation System
 
-[![Demo Video](path_to_video_thumbnail)](path_to_video_link)
+
 
 ---
 
-## **Overview**
+## **Overview** 
+[![Watch the video](https://img.youtube.com/vi/HL6IbR2yygA/0.jpg)](https://www.youtube.com/watch?v=HL6IbR2yygA)
 
 CERES is a lightweight, AI-powered desktop automation system. It allows you to control your OS and applications using **voice commands** and **chat input**. The system converts **Natural Language (NLP)** commands into executable tasks using **GEMIN 2.0 Flash** and executes them seamlessly.
 
