@@ -2,7 +2,6 @@
 # CERES - AI-Based OS Automation System
 
 
-
 ---
 
 ## **Overview** 
@@ -40,11 +39,17 @@ With CERES, you can automate everyday tasks such as:
 
 ## **Screenshots**
 
-<!-- Add screenshots of the app here -->
-<img width="1537" height="1337" alt="image" src="https://github.com/user-attachments/assets/9f3a5509-056b-40d9-b6e5-a585a39c0221" />
-<img width="915" height="1118" alt="image" src="https://github.com/user-attachments/assets/646caa2f-e73c-4947-9b02-b42caaf2309b" />
+<table>
+  <tr>
+    <td>
+      <img width="400" alt="Image 1" src="https://github.com/user-attachments/assets/df252bbe-704d-4345-ad88-c67657dd3749" />
+    </td>
+    <td>
+      <img width="400" alt="Image 2" src="https://github.com/user-attachments/assets/9c967100-16db-4884-bb20-130345d64062" />
+    </td>
+  </tr>
+</table>
 
-![Screenshot 2](path_to_screenshot_2)
 
 
 ## **Running the Application**
