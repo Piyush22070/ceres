@@ -10,6 +10,11 @@ This module provides a **voice interface** for the CERES AI system. It integrate
 
 ---
 
+# Interface of Voice Module
+
+<img width="2374" height="1757" alt="image" src="https://github.com/user-attachments/assets/3c9c438f-5010-4efc-a778-19eb162341ee" />
+
+
 ## **Folder Structure**
 
 ```
