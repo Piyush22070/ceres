@@ -1,0 +1,20 @@
+# ceres-desktop
+ceres-desktop/node_modules/
+ceres-desktop/dist/
+ceres-desktop/.env
+ceres-desktop/src-tauri/target/
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/venv/
+**/.venv/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/

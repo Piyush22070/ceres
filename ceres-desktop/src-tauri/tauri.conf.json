@@ -1,0 +1,49 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Ceres",
+  "version": "0.1.0",
+  "identifier": "com.piyush.ceres",
+  "build": {
+    "beforeDevCommand": "pnpm dev",
+    "beforeBuildCommand": "pnpm build",
+    "devUrl": "http://localhost:1420",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "title": "Ceres",
+        "width": 360,
+        "height": 480,
+        "x": 600,
+        "y": 100
+      }
+    ]
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["dmg"],
+    "resources": [
+      "ai_scripts",
+      "start.sh"
+    ],
+    "macOS": {
+      "exceptionDomain": "localhost",
+      "signingIdentity": null
+    }
+  },
+  "plugins": {
+    "sidecar": {
+      "scripts": {
+        "backend": {
+          "script": [
+            "/bin/bash",
+            "start.sh"
+          ]
+        }
+      }
+    },
+    "shell": {}
+  }
+}

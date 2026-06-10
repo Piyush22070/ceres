@@ -1,0 +1,32 @@
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+.env.*
+
+# Rust / Tauri
+src-tauri/target/
+target/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+node_modules/
+dist/
+.env
+src-tauri/target/
+target/

@@ -1,0 +1,13 @@
+# Delete corrupted build cache
+rm -rf src-tauri/target/debug/build
+
+# Also clean node modules if needed
+rm -rf node_modules
+pnpm install
+
+# Try running again
+pnpm tauri dev
+send the email to 22070963@ycce.in for subject is "Testing Bot" “Hii From Piyush Bot"
+
+
+pnpm tauri build

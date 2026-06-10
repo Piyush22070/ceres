@@ -1,0 +1,34 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Ceres",
+  "version": "0.1.0",
+  "identifier": "com.piyush.ceres",
+  "build": {
+    "beforeBuildCommand": "pnpm build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Ceres",
+        "width": 360,
+        "height": 480,
+        "x": 600,
+        "y": 100
+      }
+    ]
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["dmg"],
+    "macOS": {
+      "exceptionDomains": ["localhost"],
+      "hardenedRuntime": true,
+      "entitlements": "./src-tauri/Entitlements.plist",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "This app needs microphone access to listen to your voice commands.",
+        "NSSpeechRecognitionUsageDescription": "This app uses speech recognition to process your commands."
+      }
+    }
+  }
+}
