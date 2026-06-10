@@ -1,8 +1,9 @@
 # CERES - AI-Based OS Automation System
 
-[![Demo Video](path_to_video_thumbnail)](path_to_video_link)
+[![Watch CERES Demo](https://img.youtube.com/vi/HL6IbR2yygA/maxresdefault.jpg)](https://youtu.be/HL6IbR2yygA?si=xFlMLhZpgDyw_wdp)
 
----
+**Watch the full demo here:**  
+https://youtu.be/HL6IbR2yygA?si=xFlMLhZpgDyw_wdp
 
 ## **Overview**
 
@@ -29,20 +30,6 @@ With CERES, you can automate everyday tasks such as:
   - Silero VAD for voice activity detection  
   - OpenAI Whisper for speech-to-text  
   - pyttsx3 for text-to-speech  
-
----
-
-## **Screenshots**
-
-<!-- Add screenshots of the app here -->
-![Screenshot 1](path_to_screenshot_1)
-![Screenshot 2](path_to_screenshot_2)
-
----
-
-## **Video Demo**
-
-[![Watch Video](path_to_video_thumbnail)](path_to_video_link)
 
 ---
 
