@@ -1,5 +1,3 @@
-
-````markdown
 # CERES - AI-Based OS Automation System
 
 [![Demo Video](path_to_video_thumbnail)](path_to_video_link)
